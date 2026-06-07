@@ -1,19 +1,5 @@
 # Project Performance Dashboard
 
-## Dashboard Screenshots
-
-### Executive Overview
-
-![Executive Overview](Project%20Performance%20Analysis.jpg)
-
-### Associate Performance Analysis
-
-![Associate Performance Analysis](Associate%20Performance%20Analysis.jpg)
-
-### Project Health Analysis
-
-![Project Health Analysis](Project%20Health%20Analysis.jpg)
-
 ## Overview
 
 This project presents an interactive Power BI dashboard designed to monitor project performance across multiple AI initiatives. The dashboard provides operational leaders with a centralized view of productivity, quality, rework, workload distribution, and project health to support data-driven decision-making.
@@ -104,6 +90,12 @@ Single-direction filtering was implemented to maintain a clean and efficient sta
 
 ---
 
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](Project%20Performance%20Analysis.jpg)
+
 ## Dashboard Pages
 
 ### Executive Overview
@@ -146,6 +138,10 @@ Provides detailed analysis of individual associate performance.
 * Project-Based Filtering
 * Role-Based Filtering
 
+### Associate Performance Analysis
+
+![Associate Performance Analysis](Associate%20Performance%20Analysis.jpg)
+
 #### Key Findings
 
 * Neha achieved the highest quality score while maintaining the lowest rework rate.
@@ -165,6 +161,10 @@ Evaluates project performance and operational risk.
 * Project Performance Matrix
 * Productivity Comparison
 * Workload Comparison
+
+### Project Health Analysis
+
+![Project Health Analysis](Project%20Health%20Analysis.jpg)
 
 #### Key Findings
 
