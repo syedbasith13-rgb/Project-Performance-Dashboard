@@ -1,5 +1,19 @@
 # Project Performance Dashboard
 
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](Project%20Performance%20Analysis.jpg)
+
+### Associate Performance Analysis
+
+![Associate Performance Analysis](Associate%20Performance%20Analysis.jpg)
+
+### Project Health Analysis
+
+![Project Health Analysis](Project%20Health%20Analysis.jpg)
+
 ## Overview
 
 This project presents an interactive Power BI dashboard designed to monitor project performance across multiple AI initiatives. The dashboard provides operational leaders with a centralized view of productivity, quality, rework, workload distribution, and project health to support data-driven decision-making.
